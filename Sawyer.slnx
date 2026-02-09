@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Sawyer.API/Sawyer.API.csproj" />
+  <Project Path="Sawyer.Application/Sawyer.Application.csproj" />
+  <Project Path="Sawyer.Domain/Sawyer.Domain.csproj" />
+  <Project Path="Sawyer.Infrastructure/Sawyer.Infrastructure.csproj" />
+  <Project Path="Sawyer.Persistence/Sawyer.Persistence.csproj" />
+</Solution>
